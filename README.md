@@ -1,2 +1,2 @@
-# Book-recommendation-system
-v1
+# Book recommendation system
+Live at: https://books-recommender-by-swapnil.herokuapp.com/
