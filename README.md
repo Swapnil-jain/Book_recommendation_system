@@ -1,5 +1,6 @@
 # Book recommendation system
-The book recommendation system does exactly what it says, it recommends books for our enthusiastic readers. It shows Top 50 books of all times, and also recommends similar recommended books if a book name is provided by you.
+The book recommendation system does exactly what it says, it recommends books for our enthusiastic readers! 
+It shows Top 50 books of all times, and also recommends similar recommended books if a book name is provided by you.
 
 It is live at: https://book-recommendation-system.up.railway.app/
 
