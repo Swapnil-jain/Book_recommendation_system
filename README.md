@@ -2,7 +2,7 @@
 The book recommendation system does exactly what it says, it recommends books for our enthusiastic readers! 
 It shows Top 50 books of all times, and also recommends similar recommended books if a book name is provided by you.
 
-It is live at: https://book-recommendation-system.onrender.com/ (Please allow ~30 seconds for the website to load)
+It is live at: https://book-recommendation-system.onrender.com/ (Please allow ~60 seconds for the website to load)
 
 The front-end of the website was created using HTML, CSS, Bootstrap, and the back-end was created using Python. Data pre-processing and visualisation was done using NumPy, pandas and seaborn. Cosine similarity of Scikit-learn was adopted as a metric to develop a scale between 0.0-10.0 to rate similarity amongst books.
 
